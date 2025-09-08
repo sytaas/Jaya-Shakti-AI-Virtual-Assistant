@@ -1,0 +1,5 @@
+# Add this to .gitignore
+.env
+config.py
+__pycache__/
+*.pyc
