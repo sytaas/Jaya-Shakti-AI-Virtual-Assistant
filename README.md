@@ -145,9 +145,4 @@ Developed by Abhishek Sharma
 Based on Python, Google Gemini AI, and various open-source APIs.
 
 
----
 
-### ✅ What to Do Next
-
-1. Save this as `README.md` in your project folder.
-2. Make sure your `.gitignore` file includes:
